@@ -1,0 +1,92 @@
+﻿  b2_broad_phase.cpp
+  b2_chain_shape.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_broad_phase.cpp': No such file or directory
+  b2_circle_shape.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_chain_shape.cpp': No such file or directory
+  b2_collide_circle.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_circle_shape.cpp': No such file or directory
+  b2_collide_edge.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_collide_circle.cpp': No such file or directory
+  b2_collide_polygon.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_collide_edge.cpp': No such file or directory
+  b2_collision.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_collide_polygon.cpp': No such file or directory
+  b2_distance.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_collision.cpp': No such file or directory
+  b2_dynamic_tree.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_distance.cpp': No such file or directory
+  b2_edge_shape.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_dynamic_tree.cpp': No such file or directory
+  b2_polygon_shape.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_edge_shape.cpp': No such file or directory
+  b2_time_of_impact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_polygon_shape.cpp': No such file or directory
+  b2_block_allocator.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\collision\b2_time_of_impact.cpp': No such file or directory
+  b2_draw.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_block_allocator.cpp': No such file or directory
+  b2_math.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_draw.cpp': No such file or directory
+  b2_settings.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_math.cpp': No such file or directory
+  b2_stack_allocator.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_settings.cpp': No such file or directory
+  b2_timer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_stack_allocator.cpp': No such file or directory
+  b2_body.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\common\b2_timer.cpp': No such file or directory
+  b2_chain_circle_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_body.cpp': No such file or directory
+  Compiling...
+  b2_chain_polygon_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_chain_circle_contact.cpp': No such file or directory
+  b2_circle_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_chain_polygon_contact.cpp': No such file or directory
+  b2_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_circle_contact.cpp': No such file or directory
+  b2_contact_manager.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_contact.cpp': No such file or directory
+  b2_contact_solver.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_contact_manager.cpp': No such file or directory
+  b2_distance_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_contact_solver.cpp': No such file or directory
+  b2_edge_circle_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_distance_joint.cpp': No such file or directory
+  b2_edge_polygon_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_edge_circle_contact.cpp': No such file or directory
+  b2_fixture.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_edge_polygon_contact.cpp': No such file or directory
+  b2_friction_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_fixture.cpp': No such file or directory
+  b2_gear_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_friction_joint.cpp': No such file or directory
+  b2_island.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_gear_joint.cpp': No such file or directory
+  b2_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_island.cpp': No such file or directory
+  b2_motor_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_joint.cpp': No such file or directory
+  b2_mouse_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_motor_joint.cpp': No such file or directory
+  b2_polygon_circle_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_mouse_joint.cpp': No such file or directory
+  b2_polygon_contact.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_polygon_circle_contact.cpp': No such file or directory
+  b2_prismatic_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_polygon_contact.cpp': No such file or directory
+  b2_pulley_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_prismatic_joint.cpp': No such file or directory
+  b2_revolute_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_pulley_joint.cpp': No such file or directory
+  Compiling...
+  b2_weld_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_revolute_joint.cpp': No such file or directory
+  b2_wheel_joint.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_weld_joint.cpp': No such file or directory
+  b2_world.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_wheel_joint.cpp': No such file or directory
+  b2_world_callbacks.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_world.cpp': No such file or directory
+  b2_rope.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\dynamics\b2_world_callbacks.cpp': No such file or directory
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\box2D\src\rope\b2_rope.cpp': No such file or directory
